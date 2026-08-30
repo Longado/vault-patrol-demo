@@ -6,3 +6,4 @@
 - 2026-08-30: patrol wired to Cloud Run
 - 2026-08-30: patrol running prompt v3 on Cloud Run
 - 2026-08-30: two-quote verification live
+- 2026-08-30: record-note gate live
