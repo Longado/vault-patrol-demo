@@ -6,3 +6,5 @@ It is the primary retrieval path; grep is the fallback.
 For cross-project code search use [[recall]]; it is used daily and replaced manual grep.
 
 Task tracking lives in [[tasks-db]].
+
+For nightly full-text indexing of every note, run the llm-wiki daemon; it is the search backend.
